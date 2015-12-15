@@ -1,0 +1,25 @@
+#divmaster{
+    margin:16px;
+    font-family:arial;
+    width:500px;
+}
+#header{
+    background-color:gray;
+    
+}
+
+#list a{
+    text-decoration:none;
+    color:yellow;
+    display:inline;
+}
+#body{
+    background-color:teal;
+    color:white;
+}
+#footer{
+    background-color:black;
+    color:white;
+}
+
+
